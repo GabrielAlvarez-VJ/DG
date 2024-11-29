@@ -1,1 +1,0 @@
-# MATTE PAINTING
