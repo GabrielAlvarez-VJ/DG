@@ -1,0 +1,17 @@
+[SI NO] El dibujo tiene un tamaño no inferior a 800x600
+[SI NO] La obra está aún bocetada o el lienzo no está plenamente pintado
+[1 2 3 4 5] La aplicación de luces y sombras es correcta
+[1 2 3 4 5] El uso de pinceles es variado y correcto
+[1 2 3 4 5] La sensación de cercanía/ lejanía está bien aplicada
+[1 2 3 4 5] La perspectiva está bien aplicada
+[1 2 3 4 5] El speed painting está suficientemente detallado
+[1 2 3 4 5] Estoy satisfecho del resultado final obtenido
+
+SI
+SI
+4
+5
+3
+4
+4
+3
