@@ -7,6 +7,9 @@
 [1 2 3 4 5] El speed painting está suficientemente detallado
 [1 2 3 4 5] Estoy satisfecho del resultado final obtenido
 
+imagen
+https://github.com/GabrielAlvarez-VJ/DG/blob/main/Speedpainting2/sp2.png
+
 SI
 SI
 4
