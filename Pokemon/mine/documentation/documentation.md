@@ -56,6 +56,6 @@ Influencias principales:
 ![Dibujo](images/draw.png)
 
 6. **Creación de la animación**
-   - Se creó el sprite final de la animación y se crearon los frames entre el final y el original.
+   - Creación del sprite final de la animación y creación de los frames entre el final y el original.
 
 ![Animation](images/animation.gif)
